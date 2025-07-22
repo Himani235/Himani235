@@ -11,7 +11,7 @@ This repository hosts the code and content for my live portfolio website:
 
 - 🎓 MSc in Statistics & Data Science (2024–2026) – NMIMS Mumbai – CGPA: 9.29  
 - 🥇 BSc (Hons) Mathematics – Amity University – CGPA: 8.72  
-- 🏫 12th Grade – KV No.1 A.F.S, Agra – 82%  
+- 🏫 12th Grade – KV No.1 A.F.S, Agra – 80.5%  
 - 🏫 10th Grade – KV No.1 A.F.S, Agra – 86.8%
 
 I am passionate about solving real-world problems using AI/ML and statistics — particularly in areas like legal tech, public governance, and healthcare analytics.
